@@ -1,7 +1,7 @@
 Indicator_type,Data,Note
-Description,AM test
+Description,Example CSV of IOCs for XDR Demo environment using SophosLabs notation
 
 file_path_name,C:\threat\threatmenu.exe,Malicious PE
 domain,netfliix.com,C2 domain
-ip,11.11.10.201,C2 IP address
+ip,210.52.109.110,C2 IP address
 sha256,b1657b54541d4534e9e9b7a328148aa94b4100a626dfb6f276cdf9742b14515e,Malicious SHA-256 (unknown.exe)
