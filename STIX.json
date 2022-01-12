@@ -113,7 +113,7 @@
                 "misp:to_ids=\"True\""
             ],
             "modified": "2022-01-12T04:15:04.000Z",
-            "pattern": "[file:hashes.SHA256 = '61dacefdd04bb8f3dad303b70fe5f77e38e3a57632ba2b9b136e00dd94f7ed32']",
+            "pattern": "[file:hashes.SHA256 = 'b1657b54541d4534e9e9b7a328148aa94b4100a626dfb6f276cdf9742b14515e']",
             "type": "indicator",
             "valid_from": "2022-01-12T04:15:04Z"
         },
@@ -147,7 +147,7 @@
                 "misp:to_ids=\"True\""
             ],
             "modified": "2022-01-12T04:15:04.000Z",
-            "pattern": "[url:value = 'http://hyundai-automotorsport.com/fx/W_7885929/?i=1']",
+            "pattern": "[url:value = 'www.delta-airlines.com/Launcher.hta']",
             "type": "indicator",
             "valid_from": "2022-01-12T04:15:04Z"
         },
@@ -167,7 +167,7 @@
                 "misp:to_ids=\"True\""
             ],
             "modified": "2022-01-12T04:15:04.000Z",
-            "pattern": "[domain-name:value = 'hyundai-automotorsport.com']",
+            "pattern": "[domain-name:value = 'delta-airlines.com']",
             "type": "indicator",
             "valid_from": "2022-01-12T04:15:04Z"
         },
