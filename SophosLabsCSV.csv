@@ -1,5 +1,5 @@
 Indicator_type,Data,Note
-Description,Example CSV of IOCs for XDR Demo environment using SophosLabs notation
+Description,IOCs using SophosLabs notation, only for use in XDR demo environment
 file_path_name,C:\threat\threatmenu.exe,Malicious PE
 domain,delta-airlines.com,C2 domain
 ip,210.52.109.110,C2 IP address
